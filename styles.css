@@ -12,7 +12,7 @@
 
 body {
     margin: 0;
-    font-family: 'Kalam';
+    font-family: 'Roboto';
     color: #333333;
 }
 
@@ -42,7 +42,7 @@ button {
     border: none;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
-    font-family: 'Kalam', cursive;
+    font-family: 'Roboto', cursive;
     font-size: large;
 }
 
